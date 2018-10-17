@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+* Languages
+  * spanish
+  * english
+  * catalan
+* Cloud
+  * aws
+  * azure
+* Linux dists
+  * Debian
+  * Centos / RHEL
+  
